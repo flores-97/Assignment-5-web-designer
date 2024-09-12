@@ -55,6 +55,15 @@ footer{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-h2, h3,{
-    
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+h3, h2, p, a{
+    text-align: center;
 }
