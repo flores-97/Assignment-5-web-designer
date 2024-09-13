@@ -57,7 +57,7 @@ footer{
 
 a{
     text-decoration: none;
-    color: black;
+    color: purple;
 }
 
 a:hover{
@@ -67,3 +67,9 @@ a:hover{
 h3, h2, p, a{
     text-align: center;
 }
+
+#images{   
+    margin-top:90px;
+    margin-left: auto; 
+    margin-right: auto;
+  }
